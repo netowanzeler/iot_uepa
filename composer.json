@@ -1,0 +1,15 @@
+{
+    "name": "neto/wanzeler",
+    "description": "trabalho de IOT",
+    "autoload": {
+        "psr-4": {
+            "Neto\\Wanzeler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "neto wanzeler"
+        }
+    ],
+    "require": {}
+}
