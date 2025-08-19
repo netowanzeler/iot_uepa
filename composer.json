@@ -11,5 +11,7 @@
             "name": "neto wanzeler"
         }
     ],
-    "require": {}
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
 }
